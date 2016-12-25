@@ -1,6 +1,7 @@
 unreleased
 ==========
 
+  * Add debug message when loading view engine
   * deps: debug@2.6.0
     - Allow colors in workers
     - Deprecated `DEBUG_FD` environment variable
